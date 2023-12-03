@@ -172,7 +172,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Weather App',
         description: 'Introducing Leos Weather App – your go-to weather app for global forecasts. Stay ahead with real-time updates on temperature, humidity, and more in any city worldwide. With a sleek design and intelligent alerts, it\'s your essential tool',
-        link: 'https://leonardlind.github.io',
+        link: 'https://leonardlind.github.io/Weather-App/',
     },
     {
         iconUrl: lion,

@@ -5,7 +5,7 @@ import Loader from '../components/Loader'
 import HomeInfo from '../components/HomeInfo';
 import JustMaybe from "../assets/JustMaybe.mp3";
 import { soundoff, soundon } from "../assets/icons";
-import { Bird, Island, Plane, Sky, Plane1, Plane2, Bird1 } from "../models";
+import { Bird, Island, Plane, Sky, Plane1 } from "../models";
 
 
 const Home = () => {
@@ -45,12 +45,12 @@ const Home = () => {
   const adjustBiplaneForScreenSize = () => {
     let screenScale, screenPosition;
 
-    // If screen width is less than 768px, adjust the scale and position
+  
     if (window.innerWidth < 768) {
       screenScale = [0.1, 0.1, 0.1];
       screenPosition = [0, -1.5, 0];
     } else {
-      screenScale = [0.2, 0.2, 0.2]; //3,3,3 for default plane
+      screenScale = [0.2, 0.2, 0.2]; 
       screenPosition = [0, -4, -4];
     }
 
@@ -94,7 +94,7 @@ const Home = () => {
        
 
 
-        <Bird1 />
+        <Bird />
 
         <Sky isRotating={isRotating} />
 
@@ -106,7 +106,7 @@ const Home = () => {
         setIsRotating={setIsRotating}
         setCurrentStage={setCurrentStage}
         />
-         <Plane2
+         <Plane1
          isRotating={isRotating}
          position={biplanePosition}
          rotation={[0, 20.1, 0]}

@@ -151,7 +151,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'What To Eat',
         description: 'Revolutionize your dinner decisions with this exciting new app! Say goodbye to the dilemma of \'What\'s for dinner?\' and let spontaneous swiping guide your culinary adventures. Because every meal should be an exciting journey',
-        link: 'https://leonardlind.github.io',
+        link: 'https://leonardlind.github.io/Whats-For-Eats/',
     },
     {
         iconUrl: game,

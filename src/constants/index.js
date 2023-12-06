@@ -151,7 +151,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'What To Eat',
         description: 'Revolutionize your dinner decisions with this exciting new app! Say goodbye to the dilemma of \'What\'s for dinner?\' and let spontaneous swiping guide your culinary adventures. Because every meal should be an exciting journey',
-        link: 'https://leonardlind.github.io',
+        link: 'https://leonardlind.github.io/Whats-For-Eats/',
     },
     {
         iconUrl: game,
@@ -179,6 +179,8 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'QR Code Generator',
         description: 'Generate quick connections with this QR code generator—your essential tool for seamless information exchange. Create a bridge between your audience and content effortlessly through personalized QR codes.',
+
+
         link: 'https://leonardlind.github.io/Qr-Code-Generator/',
     },
     {

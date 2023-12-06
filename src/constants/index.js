@@ -177,7 +177,11 @@ export const projects = [
     {
         iconUrl: lion,
         theme: 'btn-back-black',
+<<<<<<< HEAD
         name: 'QR Code Generator',
+=======
+       name: 'QR Code Generator',
+>>>>>>> f059ba45a10a30711a53005716d1a723b44230aa
         description: 'Generate quick connections with this QR code generator—your essential tool for seamless information exchange. Create a bridge between your audience and content effortlessly through personalized QR codes.',
         link: 'https://leonardlind.github.io/Qr-Code-Generator/',
     },

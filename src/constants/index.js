@@ -122,7 +122,7 @@ export const experiences = [
         company_name: "Gullmyran",
         icon: preschool,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Jan 2018 - Jan 2019",
         points: [
             "Proficient in promoting cognitive, social, and emotional development through tailored activities.",
             "Strong communication and collaboration skills with parents, fostering positive relationships.",
@@ -163,9 +163,9 @@ export const projects = [
     {
         iconUrl: life,
         theme: 'btn-back-blue',
-        name: 'Nicole Holistic Health',
-        description: 'Empower your journey on Nicole\'s Life Coach website. Delve into the transformative art of \'self-love.\' Embrace personal growth and unlock your full potential with empowering guidance and resources.',
-        link: 'https://leonardlind.github.io',
+        name: 'Image Search Engine',
+        description: 'Unlock creativity with this image search website—the go-to source for copyright-free pictures. Find the perfect visuals for your projects effortlessly. Ensuring stunning results without copyright concerns.',
+        link: 'https://leonardlind.github.io/Image-Search-Engine/',
     },
     {
         iconUrl: weather,
@@ -177,9 +177,9 @@ export const projects = [
     {
         iconUrl: lion,
         theme: 'btn-back-black',
-        name: 'Lions Club Sollefteå',
-        description: 'Help lives with Lions—your go-to help organization. Support positive change through Lions by donations that makes a meaningful impact. Join us in building a brighter and more resilient community together.',
-        link: 'https://leonardlind.github.io',
+        name: 'QR Code Generator',
+        description: 'Generate quick connections with this QR code generator—your essential tool for seamless information exchange. Create a bridge between your audience and content effortlessly through personalized QR codes.',
+        link: 'https://leonardlind.github.io/Qr-Code-Generator/',
     },
     {
         iconUrl: summiz,

@@ -178,12 +178,18 @@ export const projects = [
         iconUrl: lion,
         theme: 'btn-back-black',
 <<<<<<< HEAD
+<<<<<<< HEAD
         name: 'QR Code Generator',
 =======
        name: 'QR Code Generator',
 >>>>>>> f059ba45a10a30711a53005716d1a723b44230aa
         description: 'Generate quick connections with this QR code generator—your essential tool for seamless information exchange. Create a bridge between your audience and content effortlessly through personalized QR codes.',
         link: 'https://leonardlind.github.io/Qr-Code-Generator/',
+=======
+       name: 'Lions Club Sollefteå',
+        description: 'Help lives with Lions—your go-to help organization. Support positive change through Lions by donations that makes a meaningful impact. Join us in building a brighter and more resilient community together.',
+        link: 'https://leonardlind.github.io',
+>>>>>>> 9844e91a0f92d3341370575928c7ba5d21deeac4
     },
     {
         iconUrl: summiz,

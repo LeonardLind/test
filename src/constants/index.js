@@ -179,8 +179,6 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'QR Code Generator',
         description: 'Generate quick connections with this QR code generator—your essential tool for seamless information exchange. Create a bridge between your audience and content effortlessly through personalized QR codes.',
-
-
         link: 'https://leonardlind.github.io/Qr-Code-Generator/',
     },
     {

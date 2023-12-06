@@ -177,9 +177,9 @@ export const projects = [
     {
         iconUrl: lion,
         theme: 'btn-back-black',
-       name: 'QR Code Generator',
-        description: 'Generate quick connections with this QR code generator—your essential tool for seamless information exchange. Create a bridge between your audience and content effortlessly through personalized QR codes.',
-        link: 'https://leonardlind.github.io/Qr-Code-Generator/',
+       name: 'Lions Club Sollefteå',
+        description: 'Help lives with Lions—your go-to help organization. Support positive change through Lions by donations that makes a meaningful impact. Join us in building a brighter and more resilient community together.',
+        link: 'https://leonardlind.github.io',
     },
     {
         iconUrl: summiz,

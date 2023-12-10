@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: "/island3dPortfolio/",
+  base: "/",
   plugins: [react()],
   assetsInclude: ['**/*.glb']
 })
